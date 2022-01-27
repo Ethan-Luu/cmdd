@@ -6,12 +6,12 @@ webhook_password = 'TERMINAL'
 #api_keyFTX = "xEtyeNxh4ITViIUe3pM4cg9cOJso7HdkJggBvba8"
 #api_secretFTX = "h2fbfkRj6WG0nvBiY-fwS89IACST-_juO9gbY3LO"
 #Lu
-#api_keyFTX = "JRQe0MlG5tKf056Sau3HDxRRnPO2dinlTqHWn0Gv"
-#api_secretFTX = "pSaP7nLCoB7aVol6SEtjK_EryYAv89SFqMuT3ylK"
+api_keyFTX = "EKu3NEAojl-noZ0qtNEa79w4H2RzPJdOe_w2Rl5H"
+api_secretFTX = "DXMcEQp3Y4IS4ISgh_BDPRaZRb-wfvpsVnCZJzuk"
 
 #Erfan
-api_keyFTX = "xZmctm5hNnOKZR9p6iC0P3BOYsTi032rj_0HYGSp"
-api_secretFTX = "oAmeXity63-yF1W8tWW-g9l9DRpZb95jwE6KRg9o"
+#api_keyFTX = "xZmctm5hNnOKZR9p6iC0P3BOYsTi032rj_0HYGSp"
+#api_secretFTX = "oAmeXity63-yF1W8tWW-g9l9DRpZb95jwE6KRg9o"
 
 count = 1
 one = False
